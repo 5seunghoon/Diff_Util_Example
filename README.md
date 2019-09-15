@@ -1,7 +1,7 @@
 # Diff_Util_Example
 Android DiffUtil Example
 
-Korean Description : https://deque.tistory.com/139
+(Korean Description) : https://deque.tistory.com/139
 
 #### SHUFFLE
 
