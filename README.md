@@ -1,7 +1,8 @@
 # Diff_Util_Example
 Android DiffUtil Example
 
-(Korean Description) : https://deque.tistory.com/139
+### Explanation 
+한국어 설명 : https://deque.tistory.com/139
 
 #### SHUFFLE
 
